@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [File Monitoring System](https://github.com/LGTJackson/LABEL)
 
-<h2>Certifications & Education</h2>
+<h2>Certifications</h2>
   - [Google Cybersecurity Professional Certificate](https://coursera.org/share/59c90542a9d3c296e445031c80476347) 
 <h2> Connect with me:</h2>
 
