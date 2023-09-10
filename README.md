@@ -1,11 +1,12 @@
-<h1>Hi, I'm Lee! <br/><a href="https://github.com/LGTJackson">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Lee! <br></h1>
 
 <h2>👨‍💻Projects:</h2>
 
 - <b>Python</b>
-  - [File Monitoring System)](https://github.com/LGTJackson/LABEL)
+  - [File Monitoring System](https://github.com/LGTJackson/LABEL)
 
-
+<h2>Certifications & Education</h2>
+  - [Google Cybersecurity Professional Certificate](https://coursera.org/share/59c90542a9d3c296e445031c80476347) 
 <h2> Connect with me:</h2>
 
 
