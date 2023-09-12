@@ -5,6 +5,10 @@
 - <b>Python</b>
   - [File Integrity Monitor](https://github.com/LGTJackson/LABEL)
 
+- <b>Packet Analysis</b>
+
+- <b>SIEM & IDS/IPS</b>
+
 <h2>Certifications:</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/59c90542a9d3c296e445031c80476347)
