@@ -6,8 +6,11 @@
   - [File Integrity Monitor](https://github.com/LGTJackson/LABEL)
 
 - <b>Packet Analysis</b>
+  -[Wireshark Packet Analysis](https://github.com/LGTJackson/LABEL)
+  -[Packet Analysis using tcpdump](https://github.com/LGTJackson/LABEL)
 
 - <b>SIEM & IDS/IPS</b>
+  -[Log Analysis with Splunk](https://github.com/LGTJackson/LABEL)
 
 <h2>Certifications:</h2>
 
