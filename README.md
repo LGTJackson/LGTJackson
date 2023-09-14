@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Python</b>
-  - [File Integrity Monitor](https://github.com/LGTJackson/LABEL)
+  - [File Integrity Monitor](https://github.com/LGTJackson/File-Integrity-Monitor)
 
 - <b>Packet Analysis</b>
 
