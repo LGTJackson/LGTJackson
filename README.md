@@ -13,7 +13,7 @@
 
 - <b>SIEM & IDS/IPS</b>
 
-  - [Log Analysis with Splunk](https://github.com/LGTJackson/LABEL)
+  - [Incident Handling with Splunk (Writeup)](https://github.com/LGTJackson/LABEL](https://github.com/LGTJackson/Incident-Handling-with-Splunk/blob/main/README.md))
 
 <h2>Certifications:</h2>
 
