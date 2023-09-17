@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lee!</h1>
 
-<h2>👨‍💻Projects:</h2>
+<h2>👨‍💻Projects and Write-ups:</h2>
 
 - <b>Python</b>
   - [File Integrity Monitor](https://github.com/LGTJackson/File-Integrity-Monitor)
@@ -13,7 +13,7 @@
 
 - <b>SIEM & IDS/IPS</b>
 
-  - [Incident Handling with Splunk (Writeup)](https://github.com/LGTJackson/LABEL](https://github.com/LGTJackson/Incident-Handling-with-Splunk/blob/main/README.md))
+  - [Incident Handling with Splunk using the Cyber Kill Chain(Writeup)](https://github.com/LGTJackson/LABEL](https://github.com/LGTJackson/Incident-Handling-with-Splunk/blob/main/README.md))
 
 <h2>Certifications:</h2>
 
