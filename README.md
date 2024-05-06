@@ -5,12 +5,13 @@
 - <b>Python</b>
   - [File Integrity Monitor](https://github.com/LGTJackson/File-Integrity-Monitor)
 
-- <b>Packet Analysis</b>
+<!--
+ - <b>Packet Analysis</b>
 
   - [Wireshark Packet Analysis](https://github.com/LGTJackson/LABEL)
 
   - [Packet Analysis using tcpdump](https://github.com/LGTJackson/LABEL)
-
+-->
 - <b>SIEM & IDS/IPS</b>
 
   - [Incident Handling with Splunk using the Cyber Kill Chain(Writeup)](https://github.com/LGTJackson/Incident-Handling-with-Splunk/blob/main/README.md)
